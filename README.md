@@ -1,1 +1,2 @@
-# BDFYNOFLEX
+# template
+template for start project
